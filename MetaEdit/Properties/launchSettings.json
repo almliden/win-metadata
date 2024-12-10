@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MetaEdit": {
+      "commandName": "Project",
+      "commandLineArgs": "--mode=\"CreationTime\""
+    }
+  }
+}
